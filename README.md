@@ -16,6 +16,5 @@ Sledujte svůj denní příjem tekutin a udržujte si optimální hydrataci dík
 - 🔥 **Výpočet kalorií** – evidujte nejen objem, ale i kalorickou hodnotu nápojů.
 - 💧 **Hodnocení hydratace** – aplikace rozlišuje mezi nápoji podle jejich hydratačního efektu.
 - ☀️ **Integrace s API pro počasí** – příjem tekutin je upravován podle denní teploty a vlhkosti.
-- 📡 **Bluetooth propojení s chytrou lahví** – automatické zaznamenávání příjmu vody.
 
 ---
