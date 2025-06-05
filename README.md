@@ -1,3 +1,5 @@
+![Thumbnail](sources/projekt3.jpg)
+
 # 🥤 Aplikace pro sledování příjmu tekutin
 
 Sledujte svůj denní příjem tekutin a udržujte si optimální hydrataci díky chytré a přehledné aplikaci, která bere v potaz nejen množství, ale i typ nápoje, kalorickou hodnotu a dokonce i aktuální počasí.
